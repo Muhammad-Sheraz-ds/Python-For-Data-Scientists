@@ -20,12 +20,12 @@
 
 ### Lec 2 Numpy Array-vs-List
 
-1. A Comparison
+- A Comparison
     - Python Lists
     - Python Arrays
     - NumPy Arrays
-2. Memory Consumption of Python List and Numpy Array
-3. Operation cost on Python List and Numpy Array
+- Memory Consumption of Python List and Numpy Array
+- Operation cost on Python List and Numpy Array
 
 
 
